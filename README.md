@@ -13,6 +13,7 @@ The aim of the experiment was to collect enough data to be able to assert which 
 The luminescence was measured using an automatic sampling luminometer and the data collected in an Excel table.
 
 In this project I clean the superfluous data using Pandas and visualizing the data with the seaborn library, Finally, I used a list containing the classification algorithms of Logistic Regression, SVM, Decision Tree and Random forest  to obtain an automatic classification of the source state of the inoculum whether FRESH or FROZEN using the inoculum volume and the highlighted luminescence as independent variables.
+
 As you can see, the starting condition strongly influences the luminescence level.
 
 ![alt text](https://github.com/FedericoOliva1997/Bioluminescence-predicition/blob/master/Images/istogrammi.PNG)

@@ -1,10 +1,13 @@
 # Bioluminescence-predicition
-Small project in which I use logistic regression and support vector machine to predict if the analyzed sample comes from a fresh or frozen inoculum.
+Small project in which I use classification algorithms to predict if the analyzed sample comes from a fresh or frozen inoculum.
 
 The data was collected by me by inoculating the 100mL Falcon with BOSS growth medium under sterile conditions.
 Of the inoculated samples, 3 come from a culture of subcultivated bacteria in the laboratory, while the remaining 3 come from a frozen mother created directly by the supplier company.
 
 The cultures, both fresh and frozen, were then left in incubator at 22°C for 24 and 48 hours respectively and then measured by a luminometer to assess their viability.
+
+![alt text](https://github.com/FedericoOliva1997/Bioluminescence-predicition/blob/master/Images/andamentoinoculi.png)
+
 
 The aim of the experiment was to collect enough data to be able to assert which growth condition was the best to save costs and not to have to source from the manufacturer.
 The luminescence was measured using an automatic sampling luminometer and the data collected in an Excel table.

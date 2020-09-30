@@ -16,7 +16,7 @@ In this project I clean the superfluous data using Pandas and visualizing the da
 
 As you can see, the starting condition strongly influences the luminescence level.
 
-![alt text](https://github.com/FedericoOliva1997/Bioluminescence-predicition/blob/master/Images/andamentoinoculi.png)
+![alt text](https://github.com/FedericoOliva1997/Bioluminescence-predicition/blob/master/Images/valori%20per%20stato.png)
 
 
 The first 2 perform very well, while Decision Tree and Random Forest show an accuracy below 90%.
